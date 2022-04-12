@@ -14,5 +14,5 @@ void intercept::pre_start() {
 }
 
 void intercept::pre_init() {
-    intercept::sqf::system_chat("The Intercept template plugin is running!");
+    intercept::sqf::system_chat("The Kellerkompanie Intercept test plugin is running!");
 }
